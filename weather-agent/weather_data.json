@@ -1,0 +1,242 @@
+[
+  {
+    "date": "2024-09-01",
+    "max_temperature": 28,
+    "min_temperature": 18,
+    "humidity": 65,
+    "precipitation": 0.0,
+    "description": "sunny"
+  },
+  {
+    "date": "2024-09-02",
+    "max_temperature": 29,
+    "min_temperature": 19,
+    "humidity": 70,
+    "precipitation": 0.0,
+    "description": "sunny"
+  },
+  {
+    "date": "2024-09-03",
+    "max_temperature": 27,
+    "min_temperature": 20,
+    "humidity": 75,
+    "precipitation": 0.0,
+    "description": "partly cloudy"
+  },
+  {
+    "date": "2024-09-04",
+    "max_temperature": 25,
+    "min_temperature": 19,
+    "humidity": 80,
+    "precipitation": 2.5,
+    "description": "rainy"
+  },
+  {
+    "date": "2024-09-05",
+    "max_temperature": 23,
+    "min_temperature": 17,
+    "humidity": 78,
+    "precipitation": 1.0,
+    "description": "cloudy"
+  },
+  {
+    "date": "2024-09-06",
+    "max_temperature": 24,
+    "min_temperature": 16,
+    "humidity": 65,
+    "precipitation": 0.0,
+    "description": "sunny"
+  },
+  {
+    "date": "2024-09-07",
+    "max_temperature": 25,
+    "min_temperature": 15,
+    "humidity": 60,
+    "precipitation": 0.0,
+    "description": "sunny"
+  },
+  {
+    "date": "2024-09-08",
+    "max_temperature": 26,
+    "min_temperature": 16,
+    "humidity": 62,
+    "precipitation": 0.0,
+    "description": "partly cloudy"
+  },
+  {
+    "date": "2024-09-09",
+    "max_temperature": 27,
+    "min_temperature": 17,
+    "humidity": 68,
+    "precipitation": 0.0,
+    "description": "sunny"
+  },
+  {
+    "date": "2024-09-10",
+    "max_temperature": 28,
+    "min_temperature": 18,
+    "humidity": 72,
+    "precipitation": 0.0,
+    "description": "sunny"
+  },
+  {
+    "date": "2024-09-11",
+    "max_temperature": 26,
+    "min_temperature": 19,
+    "humidity": 85,
+    "precipitation": 5.2,
+    "description": "rainy"
+  },
+  {
+    "date": "2024-09-12",
+    "max_temperature": 22,
+    "min_temperature": 16,
+    "humidity": 82,
+    "precipitation": 3.1,
+    "description": "rainy"
+  },
+  {
+    "date": "2024-09-13",
+    "max_temperature": 21,
+    "min_temperature": 14,
+    "humidity": 75,
+    "precipitation": 0.5,
+    "description": "cloudy"
+  },
+  {
+    "date": "2024-09-14",
+    "max_temperature": 22,
+    "min_temperature": 13,
+    "humidity": 68,
+    "precipitation": 0.0,
+    "description": "partly cloudy"
+  },
+  {
+    "date": "2024-09-15",
+    "max_temperature": 23,
+    "min_temperature": 12,
+    "humidity": 65,
+    "precipitation": 0.0,
+    "description": "sunny"
+  },
+  {
+    "date": "2024-09-16",
+    "max_temperature": 21,
+    "min_temperature": 11,
+    "humidity": 70,
+    "precipitation": 0.0,
+    "description": "sunny"
+  },
+  {
+    "date": "2024-09-17",
+    "max_temperature": 20,
+    "min_temperature": 10,
+    "humidity": 72,
+    "precipitation": 0.0,
+    "description": "sunny"
+  },
+  {
+    "date": "2024-09-18",
+    "max_temperature": 19,
+    "min_temperature": 9,
+    "humidity": 65,
+    "precipitation": 0.0,
+    "description": "sunny"
+  },
+  {
+    "date": "2024-09-19",
+    "max_temperature": 18,
+    "min_temperature": 10,
+    "humidity": 78,
+    "precipitation": 0.0,
+    "description": "cloudy"
+  },
+  {
+    "date": "2024-09-20",
+    "max_temperature": 17,
+    "min_temperature": 11,
+    "humidity": 85,
+    "precipitation": 4.0,
+    "description": "rainy"
+  },
+  {
+    "date": "2024-09-21",
+    "max_temperature": 16,
+    "min_temperature": 9,
+    "humidity": 80,
+    "precipitation": 2.2,
+    "description": "rainy"
+  },
+  {
+    "date": "2024-09-22",
+    "max_temperature": 15,
+    "min_temperature": 8,
+    "humidity": 75,
+    "precipitation": 0.0,
+    "description": "cloudy"
+  },
+  {
+    "date": "2024-09-23",
+    "max_temperature": 16,
+    "min_temperature": 7,
+    "humidity": 70,
+    "precipitation": 0.0,
+    "description": "partly cloudy"
+  },
+  {
+    "date": "2024-09-24",
+    "max_temperature": 18,
+    "min_temperature": 8,
+    "humidity": 65,
+    "precipitation": 0.0,
+    "description": "sunny"
+  },
+  {
+    "date": "2024-09-25",
+    "max_temperature": 19,
+    "min_temperature": 9,
+    "humidity": 62,
+    "precipitation": 0.0,
+    "description": "sunny"
+  },
+  {
+    "date": "2024-09-26",
+    "max_temperature": 17,
+    "min_temperature": 10,
+    "humidity": 75,
+    "precipitation": 1.5,
+    "description": "cloudy"
+  },
+  {
+    "date": "2024-09-27",
+    "max_temperature": 16,
+    "min_temperature": 8,
+    "humidity": 68,
+    "precipitation": 0.0,
+    "description": "partly cloudy"
+  },
+  {
+    "date": "2024-09-28",
+    "max_temperature": 15,
+    "min_temperature": 7,
+    "humidity": 72,
+    "precipitation": 0.0,
+    "description": "sunny"
+  },
+  {
+    "date": "2024-09-29",
+    "max_temperature": 14,
+    "min_temperature": 6,
+    "humidity": 65,
+    "precipitation": 0.0,
+    "description": "sunny"
+  },
+  {
+    "date": "2024-09-30",
+    "max_temperature": 13,
+    "min_temperature": 5,
+    "humidity": 70,
+    "precipitation": 0.0,
+    "description": "sunny"
+  }
+]
