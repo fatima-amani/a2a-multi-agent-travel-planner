@@ -1,4 +1,4 @@
-# A2A Multi Agent Travel Planner
+# a2a multi agent travel planner
 
 ## Description
 This project is a multi-agent system for travel planning. It consists of three agents that communicate with each other using the Agent-to-Agent (a2a) communication protocol. The system can help you plan your trip by finding hotels and checking the weather.
@@ -55,3 +55,6 @@ cd orchestrator-agent
 uv run adk web
 ```
 You can access the web UI for the orchestrator at `http://localhost:8000`.
+
+---
+Created with ❤️ by [fatima-amani](https://github.com/fatima-amani)
