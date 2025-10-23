@@ -1,4 +1,4 @@
-# a2a multi agent travel planner
+# A2A Multi Agent Travel Planner
 
 ## Description
 This project is a multi-agent system for travel planning. It consists of three agents that communicate with each other using the Agent-to-Agent (a2a) communication protocol. The system can help you plan your trip by finding hotels and checking the weather.
