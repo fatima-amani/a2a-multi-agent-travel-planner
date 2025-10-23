@@ -57,4 +57,4 @@ uv run adk web
 You can access the web UI for the orchestrator at `http://localhost:8000`.
 
 ---
-Created with ❤️ by [fatima-amani](https://github.com/fatima-amani)
+Created with ❤️ by [Fatima](https://github.com/fatima-amani)
