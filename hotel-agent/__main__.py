@@ -1,5 +1,6 @@
 import logging
 import os
+import asyncio
 
 import uvicorn
 from a2a.server.apps import A2AStarletteApplication
@@ -26,7 +27,7 @@ load_dotenv()
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-def main():
+async def main():
     host = "localhost"
     port = 10002
 
@@ -55,7 +56,7 @@ def main():
             skills=[skill],
         )
 
-        adk_agent = create_agent()
+        adk_agent = await create_agent()
 
         runner = Runner(
             app_name=agent_card.name,
@@ -76,11 +77,13 @@ def main():
             agent_card=agent_card,
             http_handler=request_handler
         )
-        uvicorn.run(server.build, host=host, port=port)
+        config = uvicorn.Config(server.build(), host=host, port=port)
+        server = uvicorn.Server(config)
+        await server.serve()
     except Exception as e:
         logger.error(f"An error occurred during server startup: {e}")
         exit(1)
 
 
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())

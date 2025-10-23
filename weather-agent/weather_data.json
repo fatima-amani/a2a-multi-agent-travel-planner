@@ -1,6 +1,6 @@
 [
   {
-    "date": "2024-09-01",
+    "date": "2025-10-01",
     "max_temperature": 28,
     "min_temperature": 18,
     "humidity": 65,
@@ -8,7 +8,7 @@
     "description": "sunny"
   },
   {
-    "date": "2024-09-02",
+    "date": "2025-10-02",
     "max_temperature": 29,
     "min_temperature": 19,
     "humidity": 70,
@@ -16,7 +16,7 @@
     "description": "sunny"
   },
   {
-    "date": "2024-09-03",
+    "date": "2025-10-03",
     "max_temperature": 27,
     "min_temperature": 20,
     "humidity": 75,
@@ -24,7 +24,7 @@
     "description": "partly cloudy"
   },
   {
-    "date": "2024-09-04",
+    "date": "2025-10-04",
     "max_temperature": 25,
     "min_temperature": 19,
     "humidity": 80,
@@ -32,7 +32,7 @@
     "description": "rainy"
   },
   {
-    "date": "2024-09-05",
+    "date": "2025-10-05",
     "max_temperature": 23,
     "min_temperature": 17,
     "humidity": 78,
@@ -40,7 +40,7 @@
     "description": "cloudy"
   },
   {
-    "date": "2024-09-06",
+    "date": "2025-10-06",
     "max_temperature": 24,
     "min_temperature": 16,
     "humidity": 65,
@@ -48,7 +48,7 @@
     "description": "sunny"
   },
   {
-    "date": "2024-09-07",
+    "date": "2025-10-07",
     "max_temperature": 25,
     "min_temperature": 15,
     "humidity": 60,
@@ -56,7 +56,7 @@
     "description": "sunny"
   },
   {
-    "date": "2024-09-08",
+    "date": "2025-10-08",
     "max_temperature": 26,
     "min_temperature": 16,
     "humidity": 62,
@@ -64,7 +64,7 @@
     "description": "partly cloudy"
   },
   {
-    "date": "2024-09-09",
+    "date": "2025-10-09",
     "max_temperature": 27,
     "min_temperature": 17,
     "humidity": 68,
@@ -72,7 +72,7 @@
     "description": "sunny"
   },
   {
-    "date": "2024-09-10",
+    "date": "2025-10-10",
     "max_temperature": 28,
     "min_temperature": 18,
     "humidity": 72,
@@ -80,7 +80,7 @@
     "description": "sunny"
   },
   {
-    "date": "2024-09-11",
+    "date": "2025-10-11",
     "max_temperature": 26,
     "min_temperature": 19,
     "humidity": 85,
@@ -88,7 +88,7 @@
     "description": "rainy"
   },
   {
-    "date": "2024-09-12",
+    "date": "2025-10-12",
     "max_temperature": 22,
     "min_temperature": 16,
     "humidity": 82,
@@ -96,7 +96,7 @@
     "description": "rainy"
   },
   {
-    "date": "2024-09-13",
+    "date": "2025-10-13",
     "max_temperature": 21,
     "min_temperature": 14,
     "humidity": 75,
@@ -104,7 +104,7 @@
     "description": "cloudy"
   },
   {
-    "date": "2024-09-14",
+    "date": "2025-10-14",
     "max_temperature": 22,
     "min_temperature": 13,
     "humidity": 68,
@@ -112,7 +112,7 @@
     "description": "partly cloudy"
   },
   {
-    "date": "2024-09-15",
+    "date": "2025-10-15",
     "max_temperature": 23,
     "min_temperature": 12,
     "humidity": 65,
@@ -120,7 +120,7 @@
     "description": "sunny"
   },
   {
-    "date": "2024-09-16",
+    "date": "2025-10-16",
     "max_temperature": 21,
     "min_temperature": 11,
     "humidity": 70,
@@ -128,7 +128,7 @@
     "description": "sunny"
   },
   {
-    "date": "2024-09-17",
+    "date": "2025-10-17",
     "max_temperature": 20,
     "min_temperature": 10,
     "humidity": 72,
@@ -136,7 +136,7 @@
     "description": "sunny"
   },
   {
-    "date": "2024-09-18",
+    "date": "2025-10-18",
     "max_temperature": 19,
     "min_temperature": 9,
     "humidity": 65,
@@ -144,7 +144,7 @@
     "description": "sunny"
   },
   {
-    "date": "2024-09-19",
+    "date": "2025-10-19",
     "max_temperature": 18,
     "min_temperature": 10,
     "humidity": 78,
@@ -152,7 +152,7 @@
     "description": "cloudy"
   },
   {
-    "date": "2024-09-20",
+    "date": "2025-10-20",
     "max_temperature": 17,
     "min_temperature": 11,
     "humidity": 85,
@@ -160,7 +160,7 @@
     "description": "rainy"
   },
   {
-    "date": "2024-09-21",
+    "date": "2025-10-21",
     "max_temperature": 16,
     "min_temperature": 9,
     "humidity": 80,
@@ -168,7 +168,7 @@
     "description": "rainy"
   },
   {
-    "date": "2024-09-22",
+    "date": "2025-10-22",
     "max_temperature": 15,
     "min_temperature": 8,
     "humidity": 75,
@@ -176,7 +176,7 @@
     "description": "cloudy"
   },
   {
-    "date": "2024-09-23",
+    "date": "2025-10-23",
     "max_temperature": 16,
     "min_temperature": 7,
     "humidity": 70,
@@ -184,7 +184,7 @@
     "description": "partly cloudy"
   },
   {
-    "date": "2024-09-24",
+    "date": "2025-10-24",
     "max_temperature": 18,
     "min_temperature": 8,
     "humidity": 65,
@@ -192,7 +192,7 @@
     "description": "sunny"
   },
   {
-    "date": "2024-09-25",
+    "date": "2025-10-25",
     "max_temperature": 19,
     "min_temperature": 9,
     "humidity": 62,
@@ -200,7 +200,7 @@
     "description": "sunny"
   },
   {
-    "date": "2024-09-26",
+    "date": "2025-10-26",
     "max_temperature": 17,
     "min_temperature": 10,
     "humidity": 75,
@@ -208,7 +208,7 @@
     "description": "cloudy"
   },
   {
-    "date": "2024-09-27",
+    "date": "2025-10-27",
     "max_temperature": 16,
     "min_temperature": 8,
     "humidity": 68,
@@ -216,7 +216,7 @@
     "description": "partly cloudy"
   },
   {
-    "date": "2024-09-28",
+    "date": "2025-10-28",
     "max_temperature": 15,
     "min_temperature": 7,
     "humidity": 72,
@@ -224,7 +224,7 @@
     "description": "sunny"
   },
   {
-    "date": "2024-09-29",
+    "date": "2025-10-29",
     "max_temperature": 14,
     "min_temperature": 6,
     "humidity": 65,
@@ -232,7 +232,7 @@
     "description": "sunny"
   },
   {
-    "date": "2024-09-30",
+    "date": "2025-10-30",
     "max_temperature": 13,
     "min_temperature": 5,
     "humidity": 70,
